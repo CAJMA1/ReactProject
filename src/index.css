@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import './assets/fonts/fonts.css';
+.font-BebasNeue{
+    font-family: 'BebasNeue';
+}
+@theme {
+    --color-asphalt-50: #f5f3f1;
+    --color-asphalt-100: #e6e0db;
+    --color-asphalt-200: #d0c3b8;
+    --color-asphalt-300: #b49e90;
+    --color-asphalt-400: #9e8271;
+    --color-asphalt-500: #907162;
+    --color-asphalt-600: #7b5d53;
+    --color-asphalt-700: #634a45;
+    --color-asphalt-800: #55403e;
+    --color-asphalt-900: #4b3938;
+    --color-asphalt-950: #150f0f;
+}
