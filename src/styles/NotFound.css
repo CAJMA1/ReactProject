@@ -9,3 +9,28 @@ main{
 main div{
     margin-top: -120px;
 }
+@media screen and (min-width: 420px) {
+    button{
+        margin-left: 38%;
+    }
+}
+@media screen and (min-width:600px) {
+    button{
+        margin-left: 40%;
+    }   
+}
+@media screen and (min-width: 720px) {
+    button{
+        margin-left: 42%;
+    }
+}
+@media screen and (min-width: 1024px) {
+    button{
+        margin-left: 44%;
+    }
+}
+@media screen and (min-width: 1280px) {
+    button{
+        margin-left: 45%;
+    }
+}
