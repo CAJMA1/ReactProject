@@ -19,7 +19,7 @@ const Layout = () => {
             </ul>
           </nav>
         </header>
-        <main className="flex-grow">
+        <main className="flex-grow bg-asphalt-200">
           <Outlet />
         </main>
         <footer className="bg-asphalt-700 text-asphalt-200 text-center p-4">
